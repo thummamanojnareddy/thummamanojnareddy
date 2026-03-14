@@ -131,6 +131,4 @@ https://www.linkedin.com/in/manojna-reddy-thumma-536b9730b/
 💻 GitHub  
 https://github.com/thummamanojnareddy
 
----
 
-⭐ *If you like my projects, feel free to explore my repositories and give them a star!*
